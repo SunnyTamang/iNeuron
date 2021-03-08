@@ -1,0 +1,5 @@
+skype: support@ineuron.ai
+mail: qery@ineuron.ai
+blog: https://inblog.in/
+git: https://github.com/iNeuronai
+
