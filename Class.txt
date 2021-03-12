@@ -1,7 +1,0 @@
-bias tradeoff
-advanced partition
-sensitivity
-EDA / inspection
-
-
---Trend (Friedly mantra: Apple) is corelation
