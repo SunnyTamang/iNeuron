@@ -1,0 +1,1 @@
+print('this is py file from new folder')
